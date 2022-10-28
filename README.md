@@ -1,5 +1,3 @@
-# pixselect
-
 ## Project setup
 ```
 npm install
