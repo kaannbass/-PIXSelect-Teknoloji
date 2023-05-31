@@ -56,7 +56,7 @@
         app
     >
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title>PIXSelect Teknoloji</v-toolbar-title>
+      <v-toolbar-title></v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn
           href="https://github.com/kaannbass"
@@ -99,7 +99,7 @@ export default {
 
 <style scoped>
 .bg {
-  background-color: #ECEFF1;
+  background-color: #dfe1e2;
 }
 
 </style>
